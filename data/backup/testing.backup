@@ -1,0 +1,11 @@
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
+BDAgent=F:\Program Files\BitDefender\BitDefender 2009\bdagent.exe
+NeroFilterCheck=F:\Program Files\Common Files\Nero\Lib\NeroCheck.exe
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run-]
+vmware-tray=F:\Program Files\VMware\VMware Workstation\vmware-tray.exe
+TV Card Remote Control Device Monitor=F:\WINDOWS\713xRMTMon.exe
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+ctfmon.exe=F:\WINDOWS\system32\ctfmon.exe
+[info]
+date=1/10/2009 11:01:26 PM
+description=test buwat backup startup entry
